@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The line: the phone speaks in its own voice about its own dying battery.
 // It stretched its last 1% into three hours on purpose — not to survive, but
 // to watch its owner beg an airport stranger for a charger — and the punch
-// lands at the end: it was worth dying for. 104 characters, well inside the
+// lands at the end: it was worth dying for. 98 characters, well inside the
 // 199-character gate, so nothing is truncated or padded.
 const line =
   "I stretched 1% into three hours just to watch him beg an airport stranger for a charger. Worth it.";
